@@ -25,6 +25,6 @@ One aspect that stood out was how similar the top 100 words were across all thre
 ![Taipei search results](img/TP-3.png)
 
 ## Search Results csv Download Link
-- [Search results for Shanghai](assets/hk-protests-SH-1.csv?raw=true)
-- [Search results for Hong Kong](assets/hk-protests-HK-2.csv?raw=true)
-- [Search results for Taipei](assets/hk-protests-TP-3.csv?raw=true)
+- [Search results for Shanghai](assets/hk-protests-SH-1.csv)
+- [Search results for Hong Kong](assets/hk-protests-HK-2.csv)
+- [Search results for Taipei](assets/hk-protests-TP-3.csv)
