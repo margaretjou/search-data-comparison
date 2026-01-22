@@ -7,7 +7,7 @@ This project examines how the 2019 Hong Kong protests against a proposed extradi
 ## Location Comparison
 This comparison was conducted to explore whether geographic location influences how the Hong Kong protests are framed and described on YouTube. The three selected locations represent different distinct political and cultural perspectives: Shanghai, a major city within mainland China; Hong Kong, the site of the protests themselves; and Taipei, a city with a complex political relationship with China. By comparing the word usage in Youtube descriptions across these locations, this project aims to identify differences in emphasis and narrative regarding the protests that may reflect each location’s political environments or public opinion.
 
-## Similarities and Differences & Possible Explainations 
+## Similarities, Differences & Possible Explainations 
 Overall, the three word clouds share a strong core vocabulary, indicating that the videos across all locations are focused on the same event. The most prominent words in all three word clouds are “Hong,” “Kong,” and “Protest,” with other commonly shared terms being “Police” and “Demonstrated.” These similarities suggest a shared baseline understanding of the situation involving 2019 Hong Kong protests across all locations. Despite these similarities, notable differences appear in the frequency of certain terms. For example, the word “France” appears much more frequently in the Shanghai-based results than in the Hong Kong or Taipei results, suggesting a greater focus on international reactions to the protests within China. Additionally, while the term “pro-democracy” appears in all three word clouds, it is noticeably more prominent in video descriptions associated with Hong Kong and Taipei than in Shanghai. This difference is possibly explained by the complicated relationship these locations have with the Chinese Government, where issues regarding independence and democratic governance are more relevant to the public discourse. The Taipei wordcloud is also the only one that contains the words “Taiwan” and “Taipei” which suggests that the Hong Kong protests may have sparked discussions about the potential implications of the events towards Taiwan’s political future. Another subtle difference is that videos associated with Hong Kong and Taipei more often use the term “extradition,” whereas Shanghai-based results more frequently use “extradite”. This slight variation could be an indication that Hong Kong and Taipei based content focuses more on the political implications of the situation while Shanghai based content focuses more on the proposal actions.
 
 ## Future Improvements 
@@ -25,6 +25,6 @@ One aspect that stood out was how similar the top 100 words were across all thre
 ![Taipei search results](img/TP-3.png)
 
 ## Search Results csv Download Link
-- [Search results for Shanghai](assets/hk-protests-SH-1.csv)
-- [Search results for Hong Kong](assets/hk-protests-HK-2.csv)
+- [Download for Shanghai](assets/hk-protests-SH-1.csv)
+- [Search results for Hong Kong](https://raw.githubusercontent.com/margaretjou/search-data-comparison/refs/heads/main/assets/hk-protests-HK-2.csv)
 - [Search results for Taipei](assets/hk-protests-TP-3.csv)
