@@ -26,5 +26,5 @@ One aspect that stood out was how similar the top 100 words were across all thre
 
 ## Search Results csv Download Link
 - [Download for Shanghai](assets/hk-protests-SH-1.csv)
-- [Search results for Hong Kong](https://raw.githubusercontent.com/margaretjou/search-data-comparison/refs/heads/main/assets/hk-protests-HK-2.csv)
+- [Search results for Hong Kong](https://raw.githubusercontent.com/margaretjou/search-data-comparison/refs/heads/main/assets/hk-protests-HK-2.csv?raw=true)
 - [Search results for Taipei](assets/hk-protests-TP-3.csv)
